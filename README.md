@@ -1,2 +1,2 @@
 # Bank-ATM-Machine
- Here you will get virtual experience of ATM Machine
+ This repository will give you virtual experience of ATM Machine
